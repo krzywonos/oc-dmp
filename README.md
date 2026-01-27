@@ -1,9 +1,9 @@
 Running the script using CLI:
 
-python script.py template.xslx --additional
+python script.py --data data
 
-The --additional flag is an optional flag for adding the (sub)sections of the DMP coming from OpenAIRE Argos, not University of Bologna.
+The --data flag is used to specify a subfolder for the input data, without it the script will look for it in the same folder it is located in.
 
 Protocol available at:
 
-https://www.protocols.io/view/open-science-24-25-hubert-v1-hhqab35sf
+https://www.protocols.io/view/open-science-24-25-hubert-v2-hhqab35sf
